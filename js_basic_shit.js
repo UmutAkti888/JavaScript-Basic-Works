@@ -1,0 +1,37 @@
+// How to run this cell by cell, like Jupyter? 
+
+<div id="box"></div>
+<script>
+
+    var i;
+    var j=0;
+    var p,q;
+    var greeting = "hello" + name;
+
+    // Function Definition
+
+    // function fonksiyonadi([arg1] [arg2] ...){
+        //deyimler [kodblogu] }
+
+    // Example 1)
+    function hypotenuse(x,y){
+            return Math.sqrt(x*x + y*y)
+    }
+
+
+
+
+    // LoTR example 
+    var text;
+    var role = prompt("Which Middle Earth character are you?", "Gandalf");
+    switch(role) {
+        case "Legolas":
+            text = "Throw some arrows!"
+            break;
+        case     
+    }
+    // EKSİK
+
+    // Döngüler
+
+</script>
