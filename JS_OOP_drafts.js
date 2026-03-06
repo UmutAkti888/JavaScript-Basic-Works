@@ -148,8 +148,8 @@ class Person {
     speak() { console.log(`Hi, I’m ${this.name}`); }
 }
 
-let p = new Person('Umut');
-p.speak();           // Hi, I’m Umut
+let z = new Person('Umut');
+z.speak();           // Hi, I’m Umut
 
 // Exntensiable: Bir nesne extensible ise, o nesneye yeni özellikler eklenebilir. 
 // Object.isExtensible() fonksiyonu, bir nesnenin extensible olup olmadığını kontrol eder. 
