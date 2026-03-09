@@ -45,6 +45,5 @@ Comments and notes are in Turkish or English.
 
 ## Purpose
 
-This is not a polished project; it is a raw learning log. The goal was to get familiar with JavaScript syntax, the object model, and control structures through direct experimentation rather than tutorials alone.
-Moreover Claude Code is used to update, maintain and organize the repo and its contents. Thank you, Claude, for your support.
+This is not a polished project; it is a raw learning log. The goal was to get familiar with JavaScript syntax, the object model, and control structures through direct experimentation rather than tutorials alone. Moreover Claude Code is used to update, maintain and organize the repo and its contents. Thank you, Claude, for your support...
 
