@@ -39,11 +39,12 @@ Study notes on JavaScript arrays, written during an active session:
 - Multi-dimensional arrays (nested `new Array()` initialisation)
 - Array methods: `sort`, `concat`, `slice`, `shift`, `unshift`, `pop`, `push`
 
-Comments and notes are in Turkish.
+Comments and notes are in Turkish or English.
 
 ---
 
 ## Purpose
 
-This is not a polished project — it is a raw learning log. The goal was to get familiar with JavaScript syntax, the object model, and control structures through direct experimentation rather than tutorials.
+This is not a polished project; it is a raw learning log. The goal was to get familiar with JavaScript syntax, the object model, and control structures through direct experimentation rather than tutorials alone.
+Moreover Claude Code is used to update, maintain and organize the repo and its contents. Thank you, Claude, for your support.
 
